@@ -3,7 +3,7 @@ layout: post
 title: "How to Install Anaconda on Linux"
 date:   2021-07-02
 tags: [configuration]
-comments: true
+comments: false
 author: yiki
 ---
 
